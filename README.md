@@ -4,7 +4,7 @@
 
 
 
-<img align="right" width="550" src="https://github.com/Nitishjhaa/Nitishjhaa/assets/167053675/98803c1e-de96-4599-8d2a-423be07a37af"/>
+<img align="right" width="550" src="https://github.com/Nitishjhaa/Nitishjhaa/assets/167053675/06a92137-1a04-4a0a-8ef4-41731e6b5e77"/>
 
 
 
@@ -13,9 +13,9 @@
 
 - 📖 I’m currently learning **react and node**
 
-- 📧 How to reach me **nj9876543210p@gmail.com**
+- 📧 How to reach me : **nj9876543210p@gmail.com**
 
-- 😛 Fun fact **I have weird sense of humor**
+- 😛 Fun fact : **I have weird sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
