@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nitish jhaa</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishjhaa&label=Profile%20views&color=0e75b6&style=flat" alt="nitishjhaa" /> </p>
 
 - 📖 I’m currently learning **react and node**
 
 - 📧 How to reach me **nj9876543210p@gmail.com**
 
-- ⚡ Fun fact **I have weird sense of humor**
+- 😛 Fun fact **I have weird sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nitish jhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish jhaa" height="30" width="40" /></a>
-<a href="https://fb.com/kumar nitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kumar nitish" height="30" width="40" /></a>
 <a href="https://instagram.com/i.t__i.s__n.i.t.i.s.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.t__i.s__n.i.t.i.s.h" height="30" width="40" /></a>
-<a href="https://discord.gg/827815763590774794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="827815763590774794" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
