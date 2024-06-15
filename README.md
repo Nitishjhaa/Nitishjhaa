@@ -4,7 +4,7 @@
 
 
 
-<img align="right" width="550" src="https://github.com/Nitishjhaa/Nitishjhaa/assets/167053675/06a92137-1a04-4a0a-8ef4-41731e6b5e77"/>
+<img align="right" width="550" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
 
 
@@ -40,7 +40,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishjhaa&" alt="nitishjhaa" /></p>
 
-<!--
+
+
+
 **Nitishjhaa/Nitishjhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
