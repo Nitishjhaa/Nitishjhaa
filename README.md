@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishjhaa&label=Profile%20views&color=0e75b6&style=flat" alt="nitishjhaa" /> </p>
 
-- 📖 I’m currently learning **react and node**
+- 📖 I completed **MERN STACK**
 
 - 📧 How to reach me : **nj9876543210p@gmail.com**
 
